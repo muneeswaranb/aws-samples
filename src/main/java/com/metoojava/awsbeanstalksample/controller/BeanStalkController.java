@@ -8,6 +8,6 @@ public class BeanStalkController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello Java devs...";
+        return "Hello from metoojava...";
     }
 }
